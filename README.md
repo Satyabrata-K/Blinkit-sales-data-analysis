@@ -1,39 +1,57 @@
-# Blinkit Sales Analysis (Power BI Project)
+# **Blinkit Sales Analytics Project | SQL Server, Python, Excel & Power BI**
 
-This Power BI project analyzes Blinkit's grocery sales data to uncover patterns and drive better business decisions.
+This project presents an end-to-end data analytics solution analyzing Blinkit’s grocery sales data to uncover key patterns, optimize performance, and support better business decisions.
 
-## Project Overview
-- This project presents a comprehensive Power BI dashboard for analyzing Blinkit's sales performance, customer satisfaction, and inventory distribution. The dashboard provides key insights and opportunities for     optimization using various KPIs and visualizations.
+---
 
-## Key Performance Indicators (KPIs)
-The dashboard focuses on the following primary KPIs:
+## **📘 Project Overview**
+This project demonstrates how raw sales and customer data were cleaned, analyzed, and visualized using **SQL Server, Python, Excel, and Power BI**.  
+The interactive dashboard provides insights into **sales performance, customer satisfaction, and inventory distribution**, enabling stakeholders to identify growth opportunities and improve operations.
 
-- Total Sales: Overall revenue generated from all items sold (Rs.1.20M)
-- Average Sales: Average revenue per sale (Rs.141)
-- Number of Items: Total count of different items sold (8523)
-- Average Rating: Average customer rating for items sold (3.9 out of 5)
-## 🔧 Tools Used
-- Power BI
-- DAX
-- Power Query
-- Excel (data prep)
+---
 
-## 📊 Features
-- Item Type Distribution: Shows sales distribution across various product categories
-- Filter Panel: Allows users to filter data by outlet location type, outlet size, and item type
-- Outlet Establishment Trend: Visualizes the growth of outlet establishments from 2012 to 2022
-- Insights by outlet size and location
-- Dynamic filtering and slicers
-- KPI Cards, Bar Charts, Donut Charts, Line Graphs
+## **🎯 Key Performance Indicators (KPIs)**
+The analysis focuses on the following major KPIs:
+- **Total Sales** – Overall revenue generated from all items sold (₹1.20M)  
+- **Average Sales** – Average revenue per transaction (₹141)  
+- **Number of Items Sold** – Total count of distinct items (8,523)  
+- **Average Rating** – Average customer satisfaction score (3.9 / 5)  
 
-## 📈 Outcome
-- Highlighted high & low-performing products and outlets
-- Guided pricing and stocking strategies
-- Improved business insights for stakeholders
+---
 
-## 📷 Dashboard Preview
+## **🧰 Tools & Technologies Used**
+- **SQL Server** – Data extraction, cleaning, and transformation  
+- **Python (Pandas, NumPy)** – Data preprocessing and exploratory analysis  
+- **Excel** – Data validation and initial preparation  
+- **Power BI** – Dashboard development and KPI visualization  
+- **DAX & Power Query** – Measures, relationships, and data modeling  
+
+---
+
+## **📊 Dashboard Features**
+- **Item Type Distribution** – Analyze product-wise sales contribution  
+- **Filter Panel** – Dynamic filters for outlet type, size, and category  
+- **Outlet Establishment Trend** – Growth visualization from 2012 to 2022  
+- **Location & Size Insights** – Compare performance across outlets  
+- **KPI Cards, Bar Charts, Donut Charts, and Line Graphs** for better storytelling  
+
+---
+
+## **📈 Business Outcomes**
+- Identified **top- and low-performing products and outlets**  
+- Improved **pricing and stocking strategies** using data-driven insights  
+- Automated reporting, improving decision-making efficiency  
+- Enhanced **stakeholder visibility** through interactive visuals  
+
+---
+
+## **📷 Dashboard Preview**
 ![Dashboard](Blinkit Sales Report/Project Overview.png)
 
-## 📂 Files Included
-- `.pbix` file
-- Dashboard image
+---
+
+## **📂 Files Included**
+- `.pbix` file (Power BI Dashboard)  
+- `.sql` file (SQL Queries)  
+- `.ipynb` file (Python Notebook)  
+- Dashboard preview image  
